@@ -10,11 +10,11 @@ Student Number: `2023323`
 ## Requirements
 - [] Answer question 1 and 2
 - [x] All answers in a Jupyter notebook
-- [] Written answers and diagrams in Mark-up
+- [x] Written answers and diagrams in Mark-up
 - [] Runnable code
-- [] References in HARVARD Style
-- [] Name it as `Marcos Vinicius de Oliveira_AI_CA2.ipynb`
-- [] Upload a CCT Assessment Cover Page
+- [x] References in HARVARD Style
+- [x] Name it as `Marcos Vinicius de Oliveira_AI_CA2.ipynb`
+- [x] Upload a CCT Assessment Cover Page
 
 ## Question 1
 A puzzle has multiple ways of reaching the end solution. **Fig. 1** shows a graph that represents all possible routes to the solution. The starting point of the game is represented by **A**, the solution is represented by **S**. The other points in the graph are possible intermediary stages.
