@@ -8,10 +8,10 @@ Student Name: `Marcos Vinicius de Oliveira`
 Student Number: `2023323`
 
 ## Requirements
-- [] Answer question 1 and 2
+- [x] Answer question 1 and 2
 - [x] All answers in a Jupyter notebook
 - [x] Written answers and diagrams in Mark-up
-- [] Runnable code
+- [x] Runnable code
 - [x] References in HARVARD Style
 - [x] Name it as `Marcos Vinicius de Oliveira_AI_CA2.ipynb`
 - [x] Upload a CCT Assessment Cover Page
@@ -22,11 +22,12 @@ A puzzle has multiple ways of reaching the end solution. **Fig. 1** shows a grap
 #### Fig. 1
 ![alt text](/assets/Fig1.png "Fig. 1")
 
-- A. The graph in Fig. 1 is a visualisation of the problem.
-- B. Identify the differences between a graph and a tree. 
-- C. Explain in detail how the graph is an abstraction of the problem.
-- D. Identify the advantages of using a visualisation such as the one shown in Fig. 1.
-- E. Demonstrate how Dijkstra’s algorithm would find the shortest path to the solution in Fig.1 through diagrams and written explanation of each stage.
+A. The graph in Fig. 1 is a visualisation of the problem.
+- (i) Identify the differences between a graph and a tree. 
+- (ii) Explain in detail how the graph is an abstraction of the problem.
+- (iii) Identify the advantages of using a visualisation such as the one shown in Fig. 1.
+
+B. Demonstrate how Dijkstra’s algorithm would find the shortest path to the solution in Fig.1 through diagrams and written explanation of each stage.
 
 ## Question 2
 The creator of the puzzle has been told that the ***A**** algorithm is more efficient at finding the shortest path because it uses heuristics. Compare the performance of Dijkstra’s algorithm and the ***A**** search algorithm, referring to heuristics, to find the shortest path to the problem by implementing both algorithms programmatically and comparing the solutions generated in Mark-down. Refer to the complexity of the algorithms and compare the actual time it takes for the solutions to be processed.
