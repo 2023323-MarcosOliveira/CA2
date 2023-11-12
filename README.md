@@ -38,6 +38,8 @@ The answers to question 1 and 2 is into the archive called `Marcos Vinicius de O
 ## References
 Belwariar, R. (2018). A* Search Algorithm - GeeksforGeeks. [online] GeeksforGeeks. Available at: https://www.geeksforgeeks.org/a-search-algorithm [Accessed 28 Oct. 2023].
 
+Development Team, M. (2023). Gallery - Matplotlib 3.4.2 Documentation. [online] matplotlib.org. Available at: https://matplotlib.org/stable/gallery/index.html [Accessed 12 Nov. 2023].
+
 Navone, E.C. (2020). Dijkstra’s Shortest Path Algorithm - a Detailed and Visual Introduction. [online] freeCodeCamp.org. Available at: https://www.freecodecamp.org/news/dijkstras-shortest-path-algorithm-visual-introduction/ [Accessed 26 Oct. 2023].
 
 Vaghani, R. (2019). Difference between Graph and Tree. [online] GeeksforGeeks. Available at: https://www.geeksforgeeks.org/difference-between-graph-and-tree/ [Accessed 25 Oct. 2023].
